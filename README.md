@@ -30,10 +30,35 @@ https://user-app.krampoline.com/kcbd367ee5fe8a
 - src/store : redux thunk (about login)
 - src/utils : utils function
 
-### Built With
+## Built With
 
-- [![React][React.js]][React-url]
-- [![TailwindCSS][TailwindCSS]][Tailwind-url]
+### Enviroment
+
+[![Github]][Github-url]
+![Git]
+![VisualStudioCode]
+
+### Config
+
+![NPM]
+
+### Development
+
+![JavaScript]
+[![React.js]][React-url]
+[![ReactRouter]][ReactRouter-url]
+[![ReactQuery]][ReactQuery-url]
+[![Redux]][Redux-url]
+
+### CSS
+
+[![TailwindCSS]][Tailwind-url]
+[![StyledComponent]][StyledComponent-url]
+
+### Communication
+
+![Slack]
+![Notion]
 
 ## Getting Started
 
@@ -70,7 +95,23 @@ YuJeong Park(@udadai) - yujeong470@gmail.com
 
 Project Link: https://github.com/udadai/KAKAO_SHOP.git
 
+[Github]: https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white
+[Github-url]: https://github.com/udadai
+[Git]: https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white
+[VisualStudioCode]: https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=VISUAL%20STUDIO%20CODE&logoColor=white
+[NPM]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
 [TailwindCSS]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[JavaScript]: https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white
+[ReactRouter]: https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React%20Router&logoColor=white
+[ReactRouter-url]: https://reactrouter.com/en/main
+[ReactQuery]: https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20Query&logoColor=white
+[ReactQuery-url]: https://tanstack.com/query/v3/docs/react/overview
+[Redux]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white
+[Redux-url]: https://redux-toolkit.js.org/
+[StyledComponent]: https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled%20components&logoColor=white
+[StyledComponent-url]: https://styled-components.com/
+[Slack]: https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+[Notion]: https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white
