@@ -14,6 +14,13 @@ https://user-app.krampoline.com/kcbd367ee5fe8a
 
 ![HomePage](HomePage.png)
 
+1. 로그인 및 회원가입 페이지
+2. 상품 검색 페이지
+3. 상품 상세 페이지
+4. 장바구니 목록 페이지
+5. 주문 페이지
+6. 주문 완료 페이지
+
 ### Directory
 
 - src/apis : 통신 모듈과 개별 API 함수
